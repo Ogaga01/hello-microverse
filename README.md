@@ -23,17 +23,12 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-### Setup
 
 ### Install
+git clone https://github.com/Ogaga01/hello-microverse.git
+cd hello-microverse
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
